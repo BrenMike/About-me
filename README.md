@@ -12,9 +12,9 @@
   </ul>
   
   <blockquote>
-  :bookmark: I believe the 3 most important things to think about are:
-  Where you were before 
-  Where you are now 
-  Where you want to be in the future
+  :bookmark: I believe the 3 most important things to think about are:<br>
+  Where you were before <br>
+  Where you are now <br>
+  Where you want to be in the future <br>
   </blockquote>
   
