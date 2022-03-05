@@ -16,5 +16,14 @@
   Where you were before <br>
   Where you are now <br>
   Where you want to be in the future <br>
-  </blockquote>
+  </blockquote> <br>
+  
+  <h3> Hacking Portfolio </h2>
+  <ul>
+    <li> TryHackMe https://tryhackme.com/p/Zekith </li>
+    <li> Hackthebox https://app.hackthebox.com/profile/586800 (haven't started)</li>
+    <li> PwntTillDawn </li>
+    <li> Hackthebox Academy </li>
+    <li> Portswigger </li>
+ </ul>
   
