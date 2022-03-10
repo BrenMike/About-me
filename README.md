@@ -21,7 +21,7 @@
   <h3> Hacking Portfolio </h2>
   <ul>
     <li> TryHackMe https://tryhackme.com/p/Zekith </li>
-    <li> Hackthebox https://app.hackthebox.com/profile/586800 (haven't started)</li>
+    <li> Hackthebox https://app.hackthebox.com/profile/586800 </li>
     <li> PwntTillDawn https://online.pwntilldawn.com/Achievements/3385</li>
     <li> Hackthebox Academy </li>
     <li> Portswigger </li>
