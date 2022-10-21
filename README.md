@@ -5,7 +5,7 @@
 <h3> who am I? </h3>
 <ul> 
   <li> :boy: I'm an up and coming junior developer (well thats my goal at least) </li>
-  <li> :video_game: The only two games I play atm are Genshin Impact and Valorant </li>
+  <li> :video_game: I game and Valorant is one of the very few games I play</li>
   <li> :coffee: In love with coffee </li>
   <li> :muscle: <b>Strength:</b> Adaptable
   <li> :broken_heart: <b> Weakness:</b> I underestimate myself
@@ -18,8 +18,7 @@
   Where you want to be in the future <br>
   </blockquote> <br>
   
-  <p> I graduated with a degree in network and security however now I am focusing on python and web development </p>
-  <br>
+  <p> I graduated with a degree in Network and Security. However, I am now focusing on python and web development </p><br>
   <p> Currently taking courses from udemy to solidy my skills as a junior developer </p>
   <ul>
     <li> 100 Days of Code: The complete Python Pro bootcamp for 2022 </li>
@@ -30,7 +29,6 @@
   <ul>
     <li> TryHackMe https://tryhackme.com/p/Zekith </li>
     <li> Hackthebox https://app.hackthebox.com/profile/586800 </li>
-    <li> PwntTillDawn https://online.pwntilldawn.com/Achievements/3385</li>
     <li> Hackthebox Academy </li>
     <li> Portswigger </li>
  </ul>
