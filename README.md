@@ -4,12 +4,12 @@
   
 <h3> who am I? </h3>
 <ul> 
-  <li> :boy: I'm an up and coming junior pentester (well thats my goal at least) </li>
+  <li> :boy: I'm an up and coming junior developer (well thats my goal at least) </li>
   <li> :video_game: The only two games I play atm are Genshin Impact and Valorant </li>
   <li> :coffee: In love with coffee </li>
   <li> :muscle: <b>Strength:</b> Adaptable
   <li> :broken_heart: <b> Weakness:</b> I underestimate myself
-  </ul>
+</ul>
   
   <blockquote>
   :bookmark: I believe the 3 most important things to think about are:<br>
@@ -17,6 +17,14 @@
   Where you are now <br>
   Where you want to be in the future <br>
   </blockquote> <br>
+  
+  <p> I graduated with a degree in network and security however now I am focusing on python and web development </p>
+  <br>
+  <p> Currently taking courses from udemy to solidy my skills as a junior developer </p>
+  <ul>
+    <li> 100 Days of Code: The complete Python Pro bootcamp for 2022 </li>
+    <li> The complete 2022 Web Developement bootcamp </li>
+  </ul>
   
   <h3> Hacking Portfolio </h2>
   <ul>
