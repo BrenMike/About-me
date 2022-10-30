@@ -19,17 +19,22 @@
   </blockquote> <br>
   
   <p> I graduated with a degree in Network and Security. However, I am now focusing on python and web development </p><br>
-  <p> Currently taking courses from udemy to solidy my skills as a junior developer </p>
+  <p> Currently taking courses from udemy to solidy my skills </p>
   <ul>
     <li> 100 Days of Code: The complete Python Pro bootcamp for 2022 </li>
-    <li> The complete 2022 Web Developement bootcamp </li>
+    <li> The Complete 2022 Web Developement bootcamp </li>
   </ul>
   
-  <h3> Hacking Portfolio </h2>
+  <h3> Hacking Portfolio (Inactive) </h2>
   <ul>
     <li> TryHackMe https://tryhackme.com/p/Zekith </li>
     <li> Hackthebox https://app.hackthebox.com/profile/586800 </li>
     <li> Hackthebox Academy </li>
     <li> Portswigger </li>
  </ul>
-  
+ 
+ <h3> Simple Python Projects in Replit </h3>
+ <ul>
+    <li> https://replit.com/@BrendanMike/Hangman?v=1 </li>
+    <li> https://replit.com/@BrendanMike/password-generator-start?v=1 </li>
+ </ul>
