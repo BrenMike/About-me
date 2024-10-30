@@ -18,8 +18,8 @@
   Where you want to be in the future <br>
   </blockquote> <br>
   
-  <p> I graduated with a degree in Computer Networking and Security. </p><br>
-  <p> I have worked as Software Engineer and Business Analyst after graduation and am ready to embark on a new journey in Cyber Security. </p><br>
+  <p> I graduated with a degree in Computer Networking and Security. <br>
+  <p> I have worked as Software Engineer and Business Analyst after graduation and am ready to embark on a new journey in Cyber Security. <br>
   <p> Feel free to take a look at my Cyber Security portfolio </p>
   
   
